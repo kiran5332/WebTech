@@ -1,0 +1,17 @@
+div{
+    color: blue;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    border: 10px solid red;
+}
+#head{
+    background-color: aqua;
+}
+.classHead{
+    background-color: brown;
+    width: 100px;
+}
+.main{
+    border: 10px solid yellow;
+}
